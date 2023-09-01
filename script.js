@@ -29,5 +29,3 @@ modalBody.addEventListener("click", (e) => {
 btn2.addEventListener("click", () => {
   secondBlockCnt2.classList.toggle("second-block__container2--active");
 });
-
-//my-modal--active
